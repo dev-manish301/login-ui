@@ -43,6 +43,10 @@ main{
             color: white;
             font-weight: 700;
             border-radius: 0.3rem;
+            cursor: pointer;
+            &:active{
+                background-color:gray;
+            }
         }
     }
     .dash{

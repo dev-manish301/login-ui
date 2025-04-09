@@ -45,6 +45,10 @@ main form button {
   color: white;
   font-weight: 700;
   border-radius: 0.3rem;
+  cursor: pointer;
+}
+main form button:active {
+  background-color: gray;
 }
 main .dash {
   margin-top: 1rem;
